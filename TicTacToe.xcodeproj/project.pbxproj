@@ -18,6 +18,7 @@
 		BD8CC3B52589005D00422E91 /* cross.png in Resources */ = {isa = PBXBuildFile; fileRef = BD8CC3B22589005D00422E91 /* cross.png */; };
 		BD8CC3B62589005D00422E91 /* grid.png in Resources */ = {isa = PBXBuildFile; fileRef = BD8CC3B32589005D00422E91 /* grid.png */; };
 		BD8CC3B72589005D00422E91 /* nought.png in Resources */ = {isa = PBXBuildFile; fileRef = BD8CC3B42589005D00422E91 /* nought.png */; };
+		BD8CC48D25B0EB8200422E91 /* tictactoe.png in Resources */ = {isa = PBXBuildFile; fileRef = BD8CC48C25B0EB8100422E91 /* tictactoe.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		BD8CC3B22589005D00422E91 /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cross.png; path = ../../../../Downloads/cross.png; sourceTree = "<group>"; };
 		BD8CC3B32589005D00422E91 /* grid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = grid.png; path = ../../../../Downloads/grid.png; sourceTree = "<group>"; };
 		BD8CC3B42589005D00422E91 /* nought.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nought.png; path = ../../../../Downloads/nought.png; sourceTree = "<group>"; };
+		BD8CC48C25B0EB8100422E91 /* tictactoe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tictactoe.png; path = ../../../tictactoe.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				BD8CC3882588EE5900422E91 /* Assets.xcassets */,
 				BD8CC38A2588EE5900422E91 /* LaunchScreen.storyboard */,
 				BD8CC38D2588EE5900422E91 /* Info.plist */,
+				BD8CC48C25B0EB8100422E91 /* tictactoe.png */,
 				BD8CC3B22589005D00422E91 /* cross.png */,
 				BD8CC3B32589005D00422E91 /* grid.png */,
 				BD8CC3B42589005D00422E91 /* nought.png */,
@@ -244,6 +247,7 @@
 				BD8CC3B62589005D00422E91 /* grid.png in Resources */,
 				BD8CC3B72589005D00422E91 /* nought.png in Resources */,
 				BD8CC3892588EE5900422E91 /* Assets.xcassets in Resources */,
+				BD8CC48D25B0EB8200422E91 /* tictactoe.png in Resources */,
 				BD8CC3B52589005D00422E91 /* cross.png in Resources */,
 				BD8CC3872588EE5500422E91 /* Main.storyboard in Resources */,
 			);
